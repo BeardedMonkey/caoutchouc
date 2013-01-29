@@ -35,6 +35,7 @@ import Geometry.RangeQueryTree;
 import Geometry.XTreeSet;
 import IO.SpriteLoader;
 
+// Test
 public class Main implements KeyListener {
 
 	private static final int delay = 10;
