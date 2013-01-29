@@ -1,0 +1,12 @@
+/Test/
+
+32 32
+8
+MOVE_UP 4 20 up1.png up2.png up3.png up2.png
+MOVE_DOWN 4 20 down1.png down2.png down3.png down2.png
+MOVE_LEFT 4 20 left1.png left2.png left3.png left2.png
+MOVE_RIGHT 4 20 right1.png right2.png right3.png right2.png
+STOPPED_UP 1 1 up2.png
+STOPPED_DOWN 1 1 down2.png
+STOPPED_LEFT 1 1 left2.png
+STOPPED_RIGHT 1 1 right2.png

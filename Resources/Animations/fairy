@@ -1,0 +1,13 @@
+/Fairy/
+
+32 32
+9
+MOVE_UP 4 20 up1.png up2.png up3.png up4.png
+MOVE_DOWN 4 20 down1.png down2.png down3.png down4.png
+MOVE_LEFT 4 20 left1.png left2.png left3.png left4.png
+MOVE_RIGHT 4 20 right1.png right2.png right3.png right4.png
+STOPPED_UP 4 20 up1.png up2.png up3.png up4.png
+STOPPED_DOWN 4 20 down1.png down2.png down3.png down4.png
+STOPPED_LEFT 4 20 left1.png left2.png left3.png left4.png
+STOPPED_RIGHT 4 20 right1.png right2.png right3.png right4.png
+STOPPED 4 20 down1.png down2.png down3.png down4.png
